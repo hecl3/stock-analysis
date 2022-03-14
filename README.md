@@ -4,8 +4,8 @@ The purpose of this analysis was to determine the performance of about 11 differ
 
 Results:
 ![image](https://user-images.githubusercontent.com/94264746/158092732-2db9070d-ca46-46de-a853-a96b472e6662.png)
-For 2017, overall the returns were positive with only TERP producing a negative return. Run time with the refactored code was less than a half second. ![VBA_Challenge_2017]
-!(https://user-images.githubusercontent.com/94264746/158093286-82aa0392-4f80-43ee-a1f2-8867df9f76c1.png)
+For 2017, overall the returns were positive with only TERP producing a negative return. Run time with the refactored code was less than a half second. 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/94264746/158093286-82aa0392-4f80-43ee-a1f2-8867df9f76c1.png)
 
 
 ![image](https://user-images.githubusercontent.com/94264746/158092829-6fe14358-ec52-43a2-b28f-fc65ecd4b14a.png)
